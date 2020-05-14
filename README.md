@@ -1,6 +1,6 @@
 # numerical_methods
 An implementation of numerical methods using python
 
-TODO
+#TODO
 -CHOLESKY
 -CRAMER
